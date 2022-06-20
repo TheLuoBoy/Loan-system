@@ -23,6 +23,6 @@
     "R2": "^1.4.1"
   },
   "dependencies": {
-    "shelljs": ">=0.8.5"
+    "shelljs": "^0.8.5"
   }
 }
